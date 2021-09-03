@@ -10,6 +10,7 @@
 
 # Github Repository 
 
+https://github.com/PatekFilipe/IntereactToEarn
 
 # Smart Contract Information
 
