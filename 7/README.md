@@ -12,7 +12,9 @@
 # Smart Contract Information
 
 Address:
+
 Transaction Hash:
+
 ABI:
 ```
 
